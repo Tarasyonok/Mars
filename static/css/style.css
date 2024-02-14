@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.small {
+    font-size: 25px;
+}
+
+
+form {
+    min-width: 600px;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: peachpuff;
+}
+
+label {
+    display: block;
+}
